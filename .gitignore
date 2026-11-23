@@ -1,0 +1,11 @@
+# Roblox Studio and Rojo local build outputs
+*.rbxl
+*.rbxlx
+sourcemap.json
+
+# Blender backup files
+*.blend[0-9]*
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
